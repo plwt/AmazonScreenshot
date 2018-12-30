@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=AmazonScreenshot
+Comment=Take screenshot from Amazon Fire TV
+Exec=/opt/AmazonScreenshot/AmazonScreenshot.sh
+Icon=/opt/AmazonScreenshot/Icon.png
+Terminal=false
+Type=Application
+Categories=Development
+ 
